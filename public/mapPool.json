@@ -1,0 +1,65 @@
+[
+  {
+    "mapId": "ancient",
+    "mapName": "Ancient",
+    "thumbnail": "/images/maps/ancient.jpg",
+    "isActive": true,
+    "lastUpdated": "2026-01-27"
+  },
+  {
+    "mapId": "anubis",
+    "mapName": "Anubis",
+    "thumbnail": "/images/maps/anubis.jpg",
+    "isActive": true,
+    "lastUpdated": "2026-01-27"
+  },
+  {
+    "mapId": "dust2",
+    "mapName": "Dust II",
+    "thumbnail": "/images/maps/dust2.jpg",
+    "isActive": true,
+    "lastUpdated": "2026-01-27"
+  },
+  {
+    "mapId": "inferno",
+    "mapName": "Inferno",
+    "thumbnail": "/images/maps/inferno.jpg",
+    "isActive": true,
+    "lastUpdated": "2026-01-27"
+  },
+  {
+    "mapId": "mirage",
+    "mapName": "Mirage",
+    "thumbnail": "/images/maps/mirage.jpg",
+    "isActive": true,
+    "lastUpdated": "2026-01-27"
+  },
+  {
+    "mapId": "nuke",
+    "mapName": "Nuke",
+    "thumbnail": "/images/maps/nuke.jpg",
+    "isActive": true,
+    "lastUpdated": "2026-01-27"
+  },
+  {
+    "mapId": "vertigo",
+    "mapName": "Vertigo",
+    "thumbnail": "/images/maps/vertigo.jpg",
+    "isActive": false,
+    "lastUpdated": "2026-01-27"
+  },
+  {
+    "mapId": "train",
+    "mapName": "Train",
+    "thumbnail": "/images/maps/train.jpg",
+    "isActive": false,
+    "lastUpdated": "2026-01-27"
+  },
+  {
+    "mapId": "overpass",
+    "mapName": "Overpass",
+    "thumbnail": "/images/maps/overpass.jpg",
+    "isActive": true,
+    "lastUpdated": "2026-01-27"
+  }
+]
