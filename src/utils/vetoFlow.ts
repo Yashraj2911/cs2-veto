@@ -41,6 +41,8 @@ const BO3_STEPS: VetoStep[] = createSteps([
   VetoPhase.SidePick,
   VetoPhase.Pick,
   VetoPhase.SidePick,
+  VetoPhase.Ban,
+  VetoPhase.Ban,
   VetoPhase.Decider,
 ])
 
